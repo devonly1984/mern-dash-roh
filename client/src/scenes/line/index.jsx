@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box } from '@mui/material'
 import Header from '../../components/Header'
-import LineChart from '../../components/LineChart'
+import {LineChart} from '../../components/charts'
 const Line = () => {
   return (
     <Box m="20px">
